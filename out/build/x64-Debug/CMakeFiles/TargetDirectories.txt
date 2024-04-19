@@ -1,0 +1,3 @@
+D:/work/code/PeachyTalk/mosquitto_plugin/out/build/x64-Debug/CMakeFiles/mosquitto_plugin.dir
+D:/work/code/PeachyTalk/mosquitto_plugin/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/work/code/PeachyTalk/mosquitto_plugin/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

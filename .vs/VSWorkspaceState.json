@@ -1,0 +1,13 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "\u672C\u5730\u8BA1\u7B97\u673A": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\D:\\work\\code\\PeachyTalk\\mosquitto_plugin\\CMakeLists.txt\\mosquitto_plugin.dll (D:\\work\\code\\PeachyTalk\\mosquitto_plugin\\output\\mosquitto_plugin.dll)\\mosquitto_plugin.c",
+  "PreviewInSolutionExplorer": false
+}
